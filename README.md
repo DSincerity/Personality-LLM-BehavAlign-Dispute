@@ -11,7 +11,7 @@ This repository contains the official implementation of our **AAAI-2026 paper** 
 
 **Authors:** Deuksin Kwon, Kaleen Shrestha, Spencer Lin, James Hale, Jonathan Gratch, Maja Matarić, Gale Lucas
 
-**Conference:** AAAI 2026: Special Track on Artificial Intelligence for Social Impact (AISI)
+**\[Conference\]** AAAI 2026: Special Track on Artificial Intelligence for Social Impact (AISI)
 ---
 <div align="center">
 <img src="resources/intro_fig.png" alt="Behavioral Alignment Evaluation Framework Overview" width="650"/>
@@ -36,7 +36,7 @@ Technical details and code to be released soon before the AAAI 2026 conference.
 
 For questions or issues:
 - **GitHub Issues**: Report bugs or feature requests
-- **Email**: deuksink@usc.edu (Brian Deuksin Kwon) / kaleens@usc.edu (Kaleen Shrestha)
+- **Email**: deuksink@usc.edu (Brian Deuksin Kwon) / kshresth@usc.edu (Kaleen Shrestha)
 
 ---
 
