@@ -7,7 +7,7 @@ This repository contains the official implementation of our **AAAI-2026 paper** 
 
 ## 📄 Paper Information
 
-**Title:** [Evaluating Behavioral Alignment in Conflict Dialogue: A Multi-Dimensional Comparison of LLM Agents and Humans](TBD)
+**Title:** [Can LLMs Truly Embody Human Personality? Analyzing AI and Human Behavior Alignment in Dispute Resolution](TBD)
 
 **Authors:** Deuksin Kwon, Kaleen Shrestha, Spencer Lin, James Hale, Jonathan Gratch, Maja Matarić, Gale Lucas
 
