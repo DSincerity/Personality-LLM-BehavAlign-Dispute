@@ -27,8 +27,104 @@ You can download the supplementary materials here:
   [Download Supplementary Materials](resources/AAAI_2026_Supplementary_Material.pdf)
 
 ---
-## Code and Implementation
-Technical details and code to be released soon before the AAAI 2026 conference.
+
+## Quick Start
+
+This repository provides tools for:
+1. **L2L Simulation**: Run LLM-vs-LLM dispute resolution simulations
+2. **IRP Annotation**: Annotate conversations with Interest-Rights-Power strategies
+3. **Behavioral Analysis**: Analyze outcomes (score, accept_first, walk_away)
+4. **Strategic Analysis**: Analyze IRP strategy patterns and interactions
+
+### 1. Run L2L Agent Simulations
+
+```bash
+# Run simulation with a specific LLM engine
+bash scripts/run_with_engine.sh
+
+# Data will be saved to: data/simulations/{model}.json
+```
+
+### 2. IRP Annotation
+
+```bash
+# Batch annotation (recommended)
+bash scripts/annotate_irp_batch.sh
+
+# Or annotate a single model
+python scripts/annotate_irp.py \
+    --input data/simulations/gpt-4o-mini.json \
+    --data-type model
+
+# Output: data/simulations/{model}_irp.json (auto-merged)
+```
+
+### 3. Behavioral Outcomes Analysis
+
+Analyze how personality traits affect behavioral outcomes (negotiation score, first acceptance, walking away).
+
+```bash
+# KODIS human data analysis
+python scripts/analyze_behavioral_outcomes.py \
+    --input data/KODIS/KODIS_H2H_processed.csv \
+    --output-dir output/regression
+
+# L2L model data analysis
+python scripts/analyze_behavioral_outcomes.py \
+    --input data/simulations/gpt-4o-mini_irp.json \
+    --output-dir output/regression
+```
+
+**Output:**
+- `regression_{model_name}_summary.csv`: Significant variables summary
+- `regression_{model_name}_full_results.csv`: Full regression coefficients
+
+### 4. Strategic Outcomes Analysis
+
+Analyze IRP strategy patterns (ratios, reciprocity, escalation/descalation).
+
+```bash
+# L2L model data
+python scripts/analyze_strategic_outcomes.py \
+    --input data/simulations/gpt-4o-mini_irp.json \
+    --output-dir output/regression
+
+# KODIS human data (requires IRP annotations)
+python scripts/analyze_strategic_outcomes.py \
+    --input data/KODIS/KODIS-human-human-subset.csv \
+    --irp-annotations data/KODIS/KODIS_20_samples_irp.json \
+    --output-dir output/regression
+```
+
+**Output:**
+- `strategic_outcomes_{model_name}_summary.csv`: Significant variables summary
+- `strategic_outcomes_{model_name}_full.csv`: Full regression coefficients
+
+---
+
+## Project Structure
+
+```
+Personality-LLM-BehavAlign-Dispute/
+├── data/
+│   ├── KODIS/                    # Human-human negotiation data
+│   │   ├── KODIS-human-human-subset.csv
+│   │   ├── KODIS_20_samples_irp.json
+│   │   └── KODIS_H2H_processed.csv
+│   ├── IRP_Annotation/           # IRP annotation storage
+│   └── simulations/              # L2L simulation results
+├── scripts/
+│   ├── run_with_engine.sh       # Run L2L simulations
+│   ├── annotate_irp.py          # IRP annotation script
+│   ├── annotate_irp_batch.sh    # Batch IRP annotation
+│   ├── analyze_behavioral_outcomes.py   # Behavioral analysis
+│   ├── analyze_strategic_outcomes.py    # Strategic analysis
+│   ├── prepare_kodis_data.py    # KODIS data preprocessing
+│   └── merge_irp.py             # Merge IRP annotations
+├── output/
+│   └── regression/              # Analysis results
+└── prompts/                     # LLM prompts for simulations
+```
 
 ---
 
