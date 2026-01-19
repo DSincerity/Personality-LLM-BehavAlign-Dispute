@@ -1,0 +1,1038 @@
+{
+  "irp_kodis_2874.json": [
+    {
+      "speaker": "Speaker1",
+      "sentence": "Hi"
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "Hello I hope you are well. how can I help"
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "Hi. I bought an item which when received it isnt the item which was described on the website. How can this be resolved please"
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "Hi. I apologise for this. it does appear that the item you purchased describes the exact item received. were you aware of this prior to buying"
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "Sorry this is incorrect. The main image and product description on the website stated the name of the player and a different item was delivered. For this reason can i have a refund. Can you retract the back review. And could i have an apology please"
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "Unfortunately, due to company policy, I can only offer a partial refund as I am a small business. I would be able to retract the bad review if you would be willing to retract yours. I would be happy to accept providing you with an apology if I could gain one in return. Many thanks"
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "I will accept a full refund. i will send the item back. If you agree to retract the bad review if you do as well. And for this agreement we won't need to apologize to each other. Is that ok"
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "Apologies, I cannot take the item back once used and as such I am willing to offer a partial refund as I am losing money by giving you the item. I am happy to retract the review as agreed. I feel as if it would be good for us to both apologise as life is too short to hold grudges as you are welcome to shop here again. I would never want to be on poor terms with a buyer. How does that sound"
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "Ok i agree to these terms"
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "That is fantastic. glad to hear it"
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "Submitted agreement: Buyer gets partial refund, seller retracted their review, buyer retracted their review, seller did apologize, and buyer did apologize."
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "Accept Deal"
+    }
+  ],
+  "irp_kodis_2527.json": [
+    {
+      "speaker": "Speaker1",
+      "sentence": "Hello, I'd like to receive a refund. I'm happy to return the product"
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "please goods sold are not returnable"
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "Even if you sent the wrong product?"
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "I apologize for the inconvenience. we'll gladly facilitate a refund for the incorrect product sent"
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "Thank you. I really appreciate it. When I receive the full refund, I'll also be happy to retract the bad review if you will also retract the review you left for me?"
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "you will get your refund as soon as possible"
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "Thank you!. Will you also retract the bad review you left me?. I will do the same for you"
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "Sure, will need an apology as well"
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "If you apologize to me as well - then yes!"
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "Sure, i will"
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "Thanks, I'm happy we could reach an agreement"
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "Submitted agreement: Buyer gets full refund, seller retracted their review, buyer retracted their review, seller did apologize, and buyer did apologize."
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "Accept Deal"
+    }
+  ],
+  "irp_kodis_2659.json": [
+    {
+      "speaker": "Speaker1",
+      "sentence": "Hello. I believe I should receive a refund as the product you sold me was not accurate in the description"
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "Can you please explain how the product you received did not match the description"
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "The jersey you sold me was supposed to be Kobe's jersey but the jersey I received was not. The description was then changed when I complained. I will gladly retract my bad review and apologize if you can make this right"
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "Ok that's fine I will give you a refund if you remove the bad review and apologize for the misunderstanding"
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "Okay, I agree, however I would like the refund first before I remove the review and apologize"
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "Yes I agree to those terms. I will also retract your review as a buyer and apologize"
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "Sounds great thank you"
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "Ok we are both in agreement let's finalize the deal"
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "Submitted agreement: Buyer gets full refund, seller retracted their review, buyer retracted their review, seller did apologize, and buyer did apologize"
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "Accept Deal"
+    }
+  ],
+  "irp_kodis_2823.json": [
+    {
+      "speaker": "Speaker1",
+      "sentence": "Hi, the shirt I received was not the one that I ordered.. So I would like to receive a refund please."
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "Hi, I'm sorry to hear that.. What did you order and what did you receive?"
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "I ordered a Bryant basketball shirt but received one for another player.. I specifically wanted the Bryant shirt so would like a refund as the shirt I received was not the one that I ordered.. Thanks"
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "I see, I understand.. For future reference the shirt ordered didn't have specific player on the back, but as a Bryant fan myself I can understand your frustration."
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "Thanks for your understanding.. If that is the case then I'd suggest that the advert is modified to specifically state that fact as otherwise it can be misleading.. Any way - can I confirm that you will be able to refund me for this purchase?"
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "I'll have to look at the advert again to make it clearer for future buyers.. I'd hate for things to be misleading.. I can offer you a refund, and also a short specifically for Bryant if you like?"
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "That would be great - much appreciated.. If your willing to do that then I would see this matter as resolved and will retract my initial negative review, clarifying that after a following discussion that we were able to reach an amicable resolution.. In return would you also retract the previous review that you have made of me following our initial communications?. Does that seem fair to you?"
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "Of course that's more than fair, I hope you buy from us again.. Anything more you need?"
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "I surely will.. I just wanted to apologise for my comments in our initial exchange and would appreciate if you would apologise for your part in the our initial disagreement.. I'm really happy that we were able to reach an agreement.. Thanks again."
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "Apologies on my side also.. Hope you enjoy the rest of your day!"
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "Submitted agreement: Buyer gets full refund, seller retracted their review, buyer retracted their review, seller did apologize, and buyer did apologize."
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "Accept Deal"
+    }
+  ],
+  "irp_kodis_2589.json": [
+    {
+      "speaker": "Speaker1",
+      "sentence": "Hello. I would like to receive a refund as I received a product different from what I ordered"
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "What was the problem with your product?"
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "I ordered a Kobe Bryant jersey and I received the wrong one. It has a player name on it that is not Bryant"
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "Unfortunately our website stated that Kobe Bryant was not available for purchase"
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "The listing stated that the jersey was a Kobe Bryant jersey and that is what I selected and purchased. If this product was not available the listing should have been taken down. I received a different jersey and I would like a refund"
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "I can offer a refund as long as the product is shipped back to us"
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "Shipping the product back is not a problem. I will return it as soon as you send over return instructions and the shipping label to my email"
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "That's fine. I will send it over"
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "I would also like you to retract the bad review you have posted of me calling me a fraud and a liar as this issue is not my fault"
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "As long as you retract yours as well. I am sorry for the poor buying experience"
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "I will retract my review as long as you do. I agree to this"
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "Submitted agreement: Buyer gets full refund, seller retracted their review, buyer retracted their review, seller did apologize, and buyer didn't apologize"
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "Accept Deal"
+    }
+  ],
+  "irp_kodis_2835.json": [
+    {
+      "speaker": "Speaker1",
+      "sentence": "Hi,. I got a wrong package,"
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "Hi,. Sorry to hear that,. Could you advise which item you received"
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "I received a replica of the LA Lakers Basketball Championship jersey instead of the jersey Kobe Bryant used for his last championship,"
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "We apologise for any confusion,. It is stated on our website that this is a replica item and not the original item worn by Kobe Bryant,"
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "Sure,. I understand,. But what was sent was a replica of the LA Lakers Basketball Championship jersey,. I would like to return the item and get what I initially ordered for,"
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "Could you clarify as we provided you with a jersey for the correct team,. Which other item would you like to receive,"
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "I would be pleased to receive a replica of the Kobe Bryant jersey worn in his last championship game,"
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "Could you advise how this would differ from the item which you have received,"
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "The Kobe Bryant jersey is a specific player's jersey and not just any other LA Lakers Basketball Championship team player's jersey,"
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "Which player's jersey have you received,"
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "I don't even know this player,. Never heard of him,"
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "Could you advise of the name on the jersey,"
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "PLAYER TEAM(S) GAMES Carmelo Anthony - details USA (Olympics) 16 Trevor Ariza - details Los Angeles Lakers (USA-1) 137 Chucky Atkins - details Los Angeles Lakers (USA-1) 66 Matt Barnes - details Los Angeles Lakers (USA-1) 130 Jon Barry - details Los Angeles Lakers (USA-1) 52 Brandon Bass - details Los Angeles Lakers (USA-1) 52 Mario Bennett - details Los Angeles Lakers (USA-1) 46 Tarik Black - details Los Angeles Lakers (USA-1) 32 Steve Blake - details Los Angeles Lakers (USA-1) 188 Corie Blount - details Los Angeles Lakers (USA-1) 145 Carlos Boozer - details Los Angeles Lakers (USA-1) USA (Olympics) 41 Chris Bosh - details USA (Olympics) 8 Tierre Brown - details Los Angeles Lakers (USA-1) 61 Kwame Brown - details Los Angeles Lakers (USA-1) 144 Shannon Brown - details Los Angeles Lakers (USA-1) 226 Anthony Brown - details Los Angeles Lakers (USA-1) 17 Caron Butler - details Los Angeles Lakers (USA-1) 61 Andrew Bynum - details Los Angeles Lakers (USA-1) 451 Elden Campbell - details Los Angeles Lakers (USA-1) 181 Derrick Caracter - details Los Angeles Lakers (USA-1) 41 Maurice Carter - details Los Angeles Lakers (USA-1) 1 Cedric Ceballos - details Los Angeles Lakers (USA-1) 7 John Celestand,"
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "I apologise if I wasn't clear,. I meant the name of the player that is printed on the jersey,"
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "John Celestand,"
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "That is not possible, as we do not stock this players jersey,. He was not a member of the championship team with Kobe Bryant,"
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "Exactly my point,. I did not order for this jersey and I do not know why I received a package I did not place an order for,. If it is not possible to return it and get a refund, it is fine, I'll just keep it in my closet,"
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "I apologise for any inconvenience caused,. If you are happy to keep the item, I hope you enjoy it,"
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "Thank you for your time,"
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "Submitted agreement: Buyer gets no refund, seller retracted their review, buyer retracted their review, seller didn't apologize, and buyer didn't apologize,"
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "Accept Deal,"
+    }
+  ],
+  "irp_kodis_2566.json": [
+    {
+      "speaker": "Speaker1",
+      "sentence": "i did not get what i ordered. i need a refund"
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "i do no offer refunds. its as is"
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "but. the best is to give you failed to give me what i need"
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "i can give you a partial refund"
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "thats a bad deal you know"
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "it is not because i never stated who will be on the jersey. they are replicas"
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "how about getting wht i need"
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "partial refund or no refund at all"
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "am not happy about this"
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "I Walk Away."
+    }
+  ],
+  "irp_kodis_2531.json": [
+    {
+      "speaker": "Speaker1",
+      "sentence": "Hello I would like to receive a refund as this purchase is not what I received.. I would like an authentic jersey."
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "where you specific"
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "I would like a full refund please and an apology."
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "am sorry but can i know the reason"
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "This jersey quality is not up to par and I worked hard to earn this money to get a legitimate jersey."
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "well am sorry to hear that but our product are autentic"
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "It is not authentic and my review of you will stand.. Please we need to agree with issue and refund and we can remove the ratings and reviews okay."
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "okay but on an account make sure the jersey is intact cause there will be a penalty if there's any fault"
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "Submitted agreement: Buyer gets full refund, seller retracted their review, buyer retracted their review, seller didn't apologize, and buyer didn't apologize."
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "Reject Deal. am sorry for any inconvenience but can only give you refund if you accept the condition"
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "ok i will accept the condition"
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "Submitted agreement: Buyer gets full refund, seller retracted their review, buyer retracted their review, seller did apologize, and buyer didn't apologize."
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "Accept Deal"
+    }
+  ],
+  "irp_kodis_2862.json": [
+    {
+      "speaker": "Speaker1",
+      "sentence": "Good day seller.. I think you should offer a full refund for the wrong item that was delivered."
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "hi, can i please see the item picture"
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "I am unable to send you a picture of the item however it was not a Kobe Bryant shirt has described on your website."
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "according to my paperwork we have sent the right item as advertised on my web page"
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "The website was misleading.. I am happy to remove my negative review if you are able to refund me."
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "many other customer have ordered as you and received the item , they are happy with the item so the website is not missleading"
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "The website advertised a Kobe shirt.. The item I received was for a player I have never heard of.. If you are not willing to refund me, I will advertise a negative review of your website on every social media available."
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "as stated i provided the shirt as advertised on my webpage, so i will not offer a refund"
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "We should come to a mutually beneficial agreement.. You give me a refund, I will remove my negative review."
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "no sorry i will not give a refund,. thank you for your understanding"
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "I Walk Away."
+    }
+  ],
+  "irp_kodis_2663.json": [
+    {
+      "speaker": "Speaker1",
+      "sentence": "Hello, I'm enquiring about my refund."
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "Hi, as was stated on the website when you purchased, all sales are final and the jersey you purchased was a replica non-player specific jersey."
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "Are you aware that I received a confirmation email from you at point of purchase that clearly states it was for a Kobe Bryant jersey, which was, in fact, the reason why I chose it."
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "No I was not aware of that, but to my knowledge it was clearly stated on the website it was not a kobe bryant jersey.. I take pride in making sure all my listings are accurate."
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "That's great.. I'm sure it was merely a technical issue.. I will forward you the confirmation email so that you can get started on my refund."
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "I wont get started on it, until you send the confirmation email, which I believe you are making up."
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "Check your inbox.. And without a full refund, I will be forced to leave another poor review, along with screenshots."
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "I have a nearly spotless record, one bad review won't kill my reputation.. You liar and crook."
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "The receipts say otherwise.. I doubt you'll keep your reputation for long."
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "you keep talking about receipts but that means nothing if you can't produce them.. The website clearly stated it was not a Kobe jersey"
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "You should have received the copy of my confirmation letter by now.. But don't worry.. I can post it to your review board as we speak."
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "We ain't gonna agree on anything you passive aggressive liar and crook.. So peace out and stick it up there"
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "It's done.. But why are you so hostile?. Is this the way you typically do business?"
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "I Walk Away."
+    }
+  ],
+  "irp_kodis_2819.json": [
+    {
+      "speaker": "Speaker1",
+      "sentence": "The item I purchase was not exactly what was advertised. Please can you give me a partial refund of 50%. I am removing your negative review even if you don't"
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "Oh C'mon, the item description was fully stated right. So it was clearly advertised. Might just be an omission from you"
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "I found it misleading. I bought it with the intention it would be Kobi Bryant, as that was how it was advertised. Why did you remove the Kobe Bryant of the advert after the sale. It seems all a bit fishy to me. But haven't said that I mean no malice so I will remove my bad review of you. Please will you do the same. Would you be willing to offer any sort of refund"
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "Okay. For business sake. I can do a partial refund. Is that okay"
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "Yes that will be good. How much can you refund"
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "Let's do a partial 50% refund then. I guess you will take retract the bad review"
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "Yes definitely, will you remove your review as well. I am sorry that I put it on in the first place. I just felt let down. but I really appreciate how you have handled this now"
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "Yes. I will do that as well. I am sorry as well. We have a deal"
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "Submitted agreement: Buyer gets partial refund, seller retracted their review, buyer retracted their review, seller did apologize, and buyer did apologize"
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "Accept Deal"
+    }
+  ],
+  "irp_kodis_2634.json": [
+    {
+      "speaker": "Speaker1",
+      "sentence": "Hello, I want my refund of my purchase"
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "Hi!. What seems to be the problem?"
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "The web page announce a shirt of kobe bryan, but when I got it, that shirt didn't be from that player"
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "I understand your frustation, and I'm really sorry. but the page doesn't mention that the jersey will carry Kobe or any other player's name. And I want to mention that bad reviews can really harm a business. I want to fix this for both of us, are you interested in a deal so we can resolve this peacefully?"
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "Sure, I want my refund and I will retract about my bad review"
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "I appreciate it. and I will erase the negative review about you, so you can avoid any repercussions as well. Thanks for being understanding"
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "Thank you I guess.. but what I really want is my refund. could you be able to do that?"
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "I'll definitely get you your refund, no questions asked. I want all of our customers to have an excellent buying experience with us. so if the product is not what you expected, you'll definitely get your refund"
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "Ok, thank you so much.. That would be perfect!"
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "Submitted agreement: Buyer gets full refund, seller retracted their review, buyer retracted their review, seller did apologize, and buyer didn't apologize."
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "Accept Deal"
+    }
+  ],
+  "irp_kodis_2858.json": [
+    {
+      "speaker": "Speaker1",
+      "sentence": "greetings Mam/Sir the tshirt arrived and it did not match the description on the website. May i please be refunded or sent the one that matches the description"
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "Hello, mam/sir, I would like to inform you that the tshirt wasn't of a specified person on the website therefore I did not do anything wrong in this case. I spent money and resources to send over this item. I would like you to retract a bad review of me as I did nothing wrong"
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "I will take down the review if you could please atleast give me a 90% refund. because it was false advertising on your website and i have taken pictures as proof. I do not want to end this on a bad note, as this tshirt is for my nephew and he would be disappointed because he is a Kobe fan"
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "First of all, I have every right to complain to trade association about your illegal activities in trying to deceive me to get money and the tshirt. and you may get fined for lying and trying to deceive, as well as banned from this site altogether. I have proof that I sent a replica Los Angeles Lakers Basketball Championship jersey. It was not a Kobe shirt and it was never said that it was. You are only trying to get more money out of me, when it is quite shameless to do so"
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "It is not an illegal activity and you know that. This can cause more problems for you because your website did not state that i was not going to get what i ordered. This is actually your store trying to lure customers in. Go ahead and complain i will do so too and you will not be able to sell on any website. I tried to huble myself but i can see that you do not want to resolve this issue properly. You forgetting that you stand a high chance of loosing your business than i do. Its either you apologise to me, give me my refund and i give you your shirt back, i take down the reviews and we part ways, because this will be bad for your business"
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "Except the site never stated that it was a Kobe tshirt so you are in the wrong here. I will offer you a refund if you send over the shirt back, and you delete the bad review of me. Otherwise you won't get refunded and you will be stuck with the shirt. I only want to resolve this in a nice manner. I believe you should apologize to me as you didn't read description of shirt and wanted to get a shirt that was never even existing on our site. We don't sell Kobe shirts and never have"
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "It is fine, I will send over the shirt and delete the bad review and you can refund me and apologise. I hope you will also apologise because if other customers see your comments they might not want to buy so let us keep a good reputation for your shop in terms of good responses. Thank you"
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "We both must apologize because I do my business fairly and it is disheartening to see you shame me like this when I want what's best for customers. I started this business because I wanted to make people happy. I will give you refund too, for sending it back. Great I believe we have a deal. I will finalize it"
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "I will issue an apology no problem. Thank you so much enjoy the rest of your day"
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "Submitted agreement: Buyer gets full refund, seller kept their review, buyer retracted their review, seller did apologize, and buyer did apologize"
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "Accept Deal"
+    }
+  ],
+  "irp_kodis_2730.json": [
+    {
+      "speaker": "Speaker1",
+      "sentence": "I received a wrong item, so i claim a full refund"
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "Hi!. Thanks for reaching out.. What was wrong with the item?"
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "I ordered a specific model that was clearly offered on the page, instead I received a wrong model item"
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "Right.. According to what i can see on the site, we didnt offered an specific model. but I understand that maybe it wasn't clearly specified.. I really apologize for the situation.. Unfortunately i can't offer a full refund, but we can find other solutions.. How would you like to proceed?"
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "There were specific models offered. but then you changed the product description, so i keep my posture of requesting a full refund, otherwise i will publish negative reviews of your page"
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "I completely understand how are you feeling. so that's why im offering you a 30% discount on your next purchase.. How does that sound to you?"
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "I would prefer a partial refund then, so i could purchase again"
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "Great!. So let me register in my system that information.. Im giving you 30% of the total amount of your purchase as a refund.. Im adding the information provided, and a review of you as a ciient."
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "ok, i will accept the refund and will close the dispute"
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "Just before finishing, i will kindly ask you if you could remove the negative reviews on the site. and also ask you: Are you happy with the result of this issue?"
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "ok i will remove the review on the page"
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "Thanks for your response.. I will suggest to look carefully for the details in the next purchase!"
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "Submitted agreement: Buyer gets partial refund, seller retracted their review, buyer retracted their review, seller didn't apologize, and buyer didn't apologize."
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "Reject Deal. Submitted agreement: Buyer gets partial refund, seller kept their review, buyer retracted their review, seller did apologize, and buyer didn't apologize."
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "Accept Deal"
+    }
+  ],
+  "irp_kodis_2675.json": [
+    {
+      "speaker": "Speaker1",
+      "sentence": "Hello!. I would like to know if you could give me a refund for the jersey?. I would appreciate it if you could since the product didnt match the description. I will be more than willing to return the jersey too as well as remove my bad review"
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "Hi. I'm sorry but the description on the website did say that the shirt didn't come with a players name. I can't give you a refund but would be willing to remove my review if you remove yours"
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "I would really appreciate if you gave us a refund as well. we could really use that extra money to help out with our terminally ill son. He doesn't have many more days to live, life has been really hard and I don't know what to do.. His mood is already at a low and with the extra money would could invest it in buying something else that might make him smile one last time."
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "I'm sorry for the misunderstanding and your situation. might be willing to give a refund if we can negotiate.. If you can remove the negative review and post an apology I will do the same"
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "That is a deal!. Thank you for the apology as well. I am sorry for the misunderstanding as well. I will remove my review :)"
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "This is great. You agree to the deal?"
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "I do!. So we both will remove our reviews, I receive a full refund, and we both apologized!"
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "Yes!. Great. I will give a refund, apologize and remove the review. Thanks for working with me"
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "Submitted agreement: Buyer gets full refund, seller retracted their review, buyer retracted their review, seller did apologize, and buyer did apologize"
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "Accept Deal"
+    }
+  ],
+  "irp_kodis_2878.json": [
+    {
+      "speaker": "Speaker1",
+      "sentence": "Hello i requesting for a partial refund and an apology"
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "Hello. Thank you for reaching out. As stated in our policy, all sales are final, and the item description was clear. Therefore, we cannot offer a partial refund or an apology. We appreciate your understanding. Best regards"
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "But you were in the wrong here. how can that be final?"
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "I understand your concern. but the item description was accurate and clearly stated. Our policy of all sales being final ensures fairness and consistency for all customers. Thank you for your understanding"
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "The order received was not the one that i purchased. and the least you could do is refund partial refund and apology.. Thats all im asking from you"
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "I'm sorry to hear about the issue. Could you please provide your order number so I can look into this further for you?"
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "Thank you for being so understanding. My order number is: 12345"
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "Thank you for your patience. I apologize for any confusion or inconvenience caused. As a gesture of goodwill, I can offer you a 50% partial refund"
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "Submitted agreement: Buyer gets partial refund, seller retracted their review, buyer kept their review, seller did apologize, and buyer didn't apologize."
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "Accept Deal"
+    }
+  ],
+  "irp_kodis_2602.json": [
+    {
+      "speaker": "Speaker1",
+      "sentence": "Hello, I was wondering if it is possible to get a refund for the Lakers Jersey I ordered. The item was listed as a Kobe Bryant jersey at the time of purchase, but it is not what I received. I would be willing to send the jersey back in order to get a full refund"
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "I cannot offer a refund. because as my website states the Laker jerseys are general they do not represent a player past or present"
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "Yes, however, at the time of purchase, the jersey was listed as a Bryant jersey. I intended this jersey as a gift for my nephew whose idol is Kobe Bryant. I apologized for any confusion. is there any way that I could get a refund/return. I would also be willing to remove the review I left on your shop in return"
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "I appreciate your offer. I am willing to give you a 70 percent refund. I know customers do not always read terms on my website. You could also purchase another generic jersey for 20 percent off web listed price"
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "I am willing to negotiate the 70 percent refund if you also remove the bad review you left on my page. Thank you for your help"
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "I will remove your bad review you wrote. Are you interested in another sports item, maybe a Laker's yearbook for 2024"
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "No, just the refund will be fine. I apologize for any inconvenience this has caused. I thank you for your cooperation"
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "Ok please send me the jersey back and I will credit your account minus 30%"
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "Will do, thanks"
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "Please visit our website again and chat with me if you are later interested in any more purchases from my store"
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "Submitted agreement: Buyer gets partial refund, seller kept their review, buyer retracted their review, seller didn't apologize, and buyer did apologize"
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "Accept Deal"
+    }
+  ],
+  "irp_kodis_2593.json": [
+    {
+      "speaker": "Speaker1",
+      "sentence": "I want refund because you sold me the wrong product"
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "How was the item different from what you expected?"
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "I expected the Kobe Bryant jersey. You sent me a jersey of another player"
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "We apologize for the confusion. We would glad to correct the mistake"
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "ok. I will return the jersey and can you send me the Kobe Bryant one?"
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "Fantastic"
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "Can you remove the bad review you put about me on your site?"
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "I think we both should remove our bad reviews. Do you agree?"
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "ok"
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "Done"
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "I also want an apology"
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "We did apologize previously"
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "ok"
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "Submitted agreement: Buyer gets no refund, seller retracted their review, buyer retracted their review, seller did apologize, and buyer didn't apologize"
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "Accept Deal"
+    }
+  ],
+  "irp_kodis_2655.json": [
+    {
+      "speaker": "Speaker1",
+      "sentence": "hello"
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "hello!. i wanted to talk about your bad review about my business"
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "sure I need my refund because the item was sold in a misleading manner"
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "my website clearly stated that the jersey was a replica that did not represent any specific player. because of this, i don't think a refund is necessary in this case"
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "I need my refund because the item was sold in a misleading manner"
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "i did not mislead you at all. like i mentioned, the listing on my site clearly stated that the jersey was a replica that did not represent any specific player. i apologize if you did not read the listing thoroughly enough. but I cannot offer you a refund. would you be willing to possibly remove the review you left on my business?"
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "but the image has no sign of being only descriptive. I will not remove my review until I get my refund. So other people will know what they are getting"
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "the listing for the jersey was incredibly detailed on my end. all my other customers have been able to properly understand that the jersey is not affiliated with kobe bryant in any way, shape or form. if you did not read the description thoroughly enough, that is something that is not my responsibility as the seller"
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "ok, then I will not remove my review. I will keep informing other buyers. since many people liked my review and found it useful. if I don't have a solution I will keep writing more bad reviews"
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "I Walk Away."
+    }
+  ],
+  "irp_kodis_2710.json": [
+    {
+      "speaker": "Speaker1",
+      "sentence": "Hello. i demand a full refund on a shirt i bought"
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "ok"
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "I expect that i get a refund of $75 as i was given the bryant shirt i ordered for my sick cousin"
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "What are your reasons for a refund?"
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "It was clearly stated on the site that i will get a Bryant's customized shirt but a different shirt was sent"
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "I understand. but we can reach an agreement"
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "I will be glad if i get the refund as i really need the exact shirt i ordered"
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "No problem. I'm evaluating the options"
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "I will take down my negative review so i don't affect the business in any way. I hope i will get my refund"
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "ok that seems very good to me. so we all win"
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "Thanks"
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "anything else I can help you with"
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "I will apologize to the seller and i hope he retracts bad review of me too. That will be all. thanks"
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "perfect issue a refund now. something else I can help you with"
+    },
+    {
+      "speaker": "Speaker1",
+      "sentence": "Submitted agreement: Buyer gets full refund, seller retracted their review, buyer retracted their review, seller didn't apologize, and buyer did apologize."
+    },
+    {
+      "speaker": "Speaker2",
+      "sentence": "Accept Deal"
+    }
+  ]
+}
